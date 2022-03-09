@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="comp">Numero Mayor</string>
+    <string name="numero">Escribe un numero:</string>
+    <string name="numero2">Escribe un numeo:</string>
+    <string name="boton">Calcular</string>
+</resources>
